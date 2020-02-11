@@ -14,7 +14,7 @@ This is a Slackbot for the BUILD UMass Slack Workspace. This is using the [Slack
 
 2. Open the `.env` file in a text editor and add the following variable.
 ```
-  TOKEN=xoxb-012345678-ABC1DFG2HIJ3
+  TOKEN=xoxb-012345678-ABC1DFG2HIJ3       // example token
 ```
 _Note-_ If you're trying to work on making changes to the bot in the BUILD UMass Workspace, please ask the Leadership Team for the token.
 
